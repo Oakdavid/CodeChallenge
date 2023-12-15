@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\VS_Application\CodeChallenge\bin\Debug\net8.0\CodeChallenge.exe
+C:\Users\HP\Documents\VS_Application\CodeChallenge\bin\Debug\net8.0\CodeChallenge.deps.json
+C:\Users\HP\Documents\VS_Application\CodeChallenge\bin\Debug\net8.0\CodeChallenge.runtimeconfig.json
+C:\Users\HP\Documents\VS_Application\CodeChallenge\bin\Debug\net8.0\CodeChallenge.dll
+C:\Users\HP\Documents\VS_Application\CodeChallenge\bin\Debug\net8.0\CodeChallenge.pdb
+C:\Users\HP\Documents\VS_Application\CodeChallenge\obj\Debug\net8.0\CodeChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\VS_Application\CodeChallenge\obj\Debug\net8.0\CodeChallenge.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\VS_Application\CodeChallenge\obj\Debug\net8.0\CodeChallenge.AssemblyInfo.cs
+C:\Users\HP\Documents\VS_Application\CodeChallenge\obj\Debug\net8.0\CodeChallenge.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\VS_Application\CodeChallenge\obj\Debug\net8.0\CodeChallenge.dll
+C:\Users\HP\Documents\VS_Application\CodeChallenge\obj\Debug\net8.0\refint\CodeChallenge.dll
+C:\Users\HP\Documents\VS_Application\CodeChallenge\obj\Debug\net8.0\CodeChallenge.pdb
+C:\Users\HP\Documents\VS_Application\CodeChallenge\obj\Debug\net8.0\CodeChallenge.genruntimeconfig.cache
+C:\Users\HP\Documents\VS_Application\CodeChallenge\obj\Debug\net8.0\ref\CodeChallenge.dll
